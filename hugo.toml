@@ -2,4 +2,3 @@ baseURL = 'https://skyforest.org/'
 languageCode = 'zh_CN' # en-us
 title = '小森林'
 theme = 'ananke'
-
