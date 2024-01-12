@@ -1,10 +1,8 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: "关于"
+description: "种这片森林的人也住在一片森林里"
 featured_image: '/images/forest-sample.jpeg'
-menu:
-  main:
-    weight: 1
+
 ---
 {{< figure src="/images/forest-sample.jpeg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 

@@ -4,11 +4,28 @@ title = '小森林'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[menu]
+  [[menu.main]]
+  name="日常"
+  url="/daily/"
+  weight="1"
+  [[menu.main]]
+  name="文章"
+  url="/daily/"
+  weight="2"
+  [[menu.main]]
+  name="诗歌"
+  url="/poem/"
+  weight="3"
+  [[menu.main]]
+  name="关于"
+  url="/about/"
+  weight="4"
 
 [sitemap]
   changefreq = "monthly"
@@ -23,7 +40,7 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  recent_posts_number = 3
+  recent_posts_number = 6
 
 [[params.ananke_socials]]
 name = "twitter"
