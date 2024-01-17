@@ -1,13 +1,14 @@
 baseURL = 'https://skyforest.org/'
 languageCode = 'zh_CN' # en-us
-title = '小森林'
-theme = 'ananke'
+title = "小森林"
+theme = "ananke"
 
 DefaultContentLanguage = "en"
 # SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+summaryLength = "50"
 
 [menu]
   [[menu.main]]
@@ -16,7 +17,7 @@ enableRobotsTXT = true
   weight="1"
   [[menu.main]]
   name="文章"
-  url="/daily/"
+  url="/essay/"
   weight="2"
   [[menu.main]]
   name="诗歌"
