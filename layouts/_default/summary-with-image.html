@@ -20,7 +20,12 @@ More info here: https://github.com/theNewDynamic/gohugo-theme-ananke/releases/ta
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary }}
+          <!-- 检查 .Params.previewtext 是否存在 -->
+          {{ with .Params.previewtext }}
+              <p>{{ . }}</p> <!-- 显示 previewtext 的内容 -->
+          {{ else }}
+              <p>{{ .Summary }}</p>
+          {{ end }}
         </div>
           <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
         {{/* TODO: add author

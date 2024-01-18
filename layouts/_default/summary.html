@@ -17,5 +17,10 @@ More info here: https://github.com/theNewDynamic/gohugo-theme-ananke/releases/ta
           <p>{{ .Summary }}</p>
       {{ end }}
     </div>
+    {{ if .Date }}
+      <div class="f6">
+        {{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}
+      </div>
+    {{ end }}
   </div>
 </div>
