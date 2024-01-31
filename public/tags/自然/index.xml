@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自然 on 小森林</title>
+    <link>https://skyforest.org/tags/%E8%87%AA%E7%84%B6/</link>
+    <description>Recent content in 自然 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Tue, 14 Nov 2023 17:27:15 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E8%87%AA%E7%84%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>与小狗散步</title>
+      <link>https://skyforest.org/daily/20231114-walkingwithcoco/</link>
+      <pubDate>Tue, 14 Nov 2023 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/daily/20231114-walkingwithcoco/</guid>
+      <description>&lt;p&gt;小狗和我走在东山大大的草坡上。大大的草坡上，我们像两粒小小的瓜子。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>左手和右手</title>
+      <link>https://skyforest.org/poem/20221220-lefthandandrighthand/</link>
+      <pubDate>Tue, 20 Dec 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20221220-lefthandandrighthand/</guid>
+      <description>&lt;p&gt;幼儿园老师教我们辨认“左”和“右”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一块山石</title>
+      <link>https://skyforest.org/poem/20220707-a-mountain-stone/</link>
+      <pubDate>Thu, 07 Jul 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220707-a-mountain-stone/</guid>
+      <description>&lt;p&gt;背光弥勒，蹲踞在裆下&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

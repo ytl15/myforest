@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>朋友 on 小森林</title>
+    <link>https://skyforest.org/tags/%E6%9C%8B%E5%8F%8B/</link>
+    <description>Recent content in 朋友 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Fri, 26 Aug 2022 17:27:15 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E6%9C%8B%E5%8F%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这一天，这一夜</title>
+      <link>https://skyforest.org/poem/20220826-thisday-thisnight/</link>
+      <pubDate>Fri, 26 Aug 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220826-thisday-thisnight/</guid>
+      <description>&lt;p&gt;他的眼神闪烁，擦着&lt;br&gt;&#xA;一根火柴，&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的朋友Kenny</title>
+      <link>https://skyforest.org/poem/20220801-myfriendkenny/</link>
+      <pubDate>Mon, 01 Aug 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220801-myfriendkenny/</guid>
+      <description>&lt;p&gt;银色的指甲，蓝色的画笔&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

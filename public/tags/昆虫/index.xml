@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>昆虫 on 小森林</title>
+    <link>https://skyforest.org/tags/%E6%98%86%E8%99%AB/</link>
+    <description>Recent content in 昆虫 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Tue, 02 Aug 2022 17:27:15 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E6%98%86%E8%99%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图宾根的生活</title>
+      <link>https://skyforest.org/poem/20220800-newlife/</link>
+      <pubDate>Tue, 02 Aug 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220800-newlife/</guid>
+      <description>&lt;p&gt;袜子，丧偶。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>巴符州的黄蜂</title>
+      <link>https://skyforest.org/poem/20220802-wursp-in-baden/</link>
+      <pubDate>Tue, 02 Aug 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220802-wursp-in-baden/</guid>
+      <description>&lt;p&gt;黄蜂抱住我的嘴唇&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

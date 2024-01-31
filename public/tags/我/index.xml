@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我 on 小森林</title>
+    <link>https://skyforest.org/tags/%E6%88%91/</link>
+    <description>Recent content in 我 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Wed, 14 Jun 2023 17:27:15 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小小的我</title>
+      <link>https://skyforest.org/poem/20230614-small-me/</link>
+      <pubDate>Wed, 14 Jun 2023 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20230614-small-me/</guid>
+      <description>&lt;p&gt;我是缺的，我的壳需要一个圆洞&lt;br&gt;&#xA;我通过破损来认识自己的身体&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>陌生的名字</title>
+      <link>https://skyforest.org/poem/20220914-unfamiliar-name-copy/</link>
+      <pubDate>Wed, 14 Sep 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220914-unfamiliar-name-copy/</guid>
+      <description>&lt;p&gt;我很感激别人叫错我的名字&lt;br&gt;&#xA;新的名字，代表一个新的出生&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>饲养戈多</title>
+      <link>https://skyforest.org/poem/20220911-raisinggordo/</link>
+      <pubDate>Sun, 11 Sep 2022 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220911-raisinggordo/</guid>
+      <description>&lt;p&gt;我的内部有一个牧场&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

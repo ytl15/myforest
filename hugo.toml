@@ -9,7 +9,7 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 summaryLength = "50"
-site_logo = "/image/little_forest_logo2.svg"
+
 
 [menu]
   [[menu.main]]
@@ -17,17 +17,21 @@ site_logo = "/image/little_forest_logo2.svg"
   url="/daily/"
   weight="1"
   [[menu.main]]
+  name="梦境"
+  url="/dream/"
+  weight="2"
+  [[menu.main]]
   name="文章"
   url="/essay/"
-  weight="2"
+  weight="3"
   [[menu.main]]
   name="诗歌"
   url="/poem/"
-  weight="3"
+  weight="4"
   [[menu.main]]
   name="关于"
   url="/about/"
-  weight="4"
+  weight="5"
 
 [sitemap]
   changefreq = "monthly"
@@ -38,12 +42,16 @@ site_logo = "/image/little_forest_logo2.svg"
   text_color = ""
   author = ""
   favicon = ""
-  site_logo = "/image/little_forest_logo2.svg"
+  site_logo = "images/littleforest_logo.png"
   description = "hello"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  recent_posts_number = 6
+  recent_posts_number = 3
+  custom_css = ["custom.css"]
 
+[taxonomies]
+  tag = "tags"
+  serie = "series"
 
 [[params.ananke_socials]]
 name = "twitter"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>树 on 小森林</title>
+    <link>https://skyforest.org/tags/%E6%A0%91/</link>
+    <description>Recent content in 树 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Wed, 23 Mar 2022 10:38:36 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E6%A0%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>闲坐</title>
+      <link>https://skyforest.org/poem/20220323-leisurely-sit/</link>
+      <pubDate>Wed, 23 Mar 2022 10:38:36 +0100</pubDate>
+      <guid>https://skyforest.org/poem/20220323-leisurely-sit/</guid>
+      <description>&lt;p&gt;悬铃木挂着&lt;br&gt;&#xA;青色和褐色的铃铛&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

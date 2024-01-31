@@ -1,0 +1,9 @@
+a {
+    color: CornflowerBlue ; /* 未访问的链接颜色 */
+
+    text-decoration: none;
+  }
+
+a:active {
+    color: LightBlue   ; /* 链接激活（点击）时的颜色 */
+  }

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小狗 on 小森林</title>
+    <link>https://skyforest.org/tags/%E5%B0%8F%E7%8B%97/</link>
+    <description>Recent content in 小狗 on 小森林</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Tue, 14 Nov 2023 17:27:15 +0100</lastBuildDate>
+    <atom:link href="https://skyforest.org/tags/%E5%B0%8F%E7%8B%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>与小狗散步</title>
+      <link>https://skyforest.org/daily/20231114-walkingwithcoco/</link>
+      <pubDate>Tue, 14 Nov 2023 17:27:15 +0100</pubDate>
+      <guid>https://skyforest.org/daily/20231114-walkingwithcoco/</guid>
+      <description>&lt;p&gt;小狗和我走在东山大大的草坡上。大大的草坡上，我们像两粒小小的瓜子。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
