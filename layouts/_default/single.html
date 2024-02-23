@@ -1,5 +1,5 @@
 {{ define "header" }}
-   {{/* We can override any block in the baseof file be defining it in the template */}}
+   {{/* We can override any block in the baseof file by defining it in the template */}}
   {{ partial "page-header.html" . }}
 {{ end }}
 
@@ -14,11 +14,11 @@
           */}}
         {{ .CurrentSection.Title }}
       </aside>
+
       {{ partial "social-share.html" . }}
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
-
       
       {{ with .Params.series }}
         <div class="tracked">
@@ -79,10 +79,12 @@
       </div>
     </div>
 
+
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
 
   </article>
+
 
 {{ end }}
