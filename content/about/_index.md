@@ -2,12 +2,11 @@
 title: "关于"
 description: "种这片森林的人也住在一片森林里"
 featured_image: '/images/forest-sample.jpeg'
-menu:
-  main:
-    weight: 1
+
 ---
 
-{{< figure src="/images/birthchart–tianlin.jpg" title="Birth Chart  (Tianlin,1997)" >}}
+{{< figure src="/images/birthchart-tianlin.png" width="100%" title="Birth Chart (Tianlin,1997)" >}}
+
 
 # 关于我
 
