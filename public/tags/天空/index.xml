@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>天空 on 小森林</title>
-    <link>https://skyforest.org/tags/%E5%A4%A9%E7%A9%BA/</link>
+    <link>https://ytl15.github.io/myforest/tags/%E5%A4%A9%E7%A9%BA/</link>
     <description>Recent content in 天空 on 小森林</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
     <lastBuildDate>Sat, 02 Mar 2024 09:25:36 +0100</lastBuildDate>
-    <atom:link href="https://skyforest.org/tags/%E5%A4%A9%E7%A9%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ytl15.github.io/myforest/tags/%E5%A4%A9%E7%A9%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>问天</title>
-      <link>https://skyforest.org/poem/20240302-questiontosky/</link>
+      <link>https://ytl15.github.io/myforest/poem/20240302-questiontosky/</link>
       <pubDate>Sat, 02 Mar 2024 09:25:36 +0100</pubDate>
-      <guid>https://skyforest.org/poem/20240302-questiontosky/</guid>
+      <guid>https://ytl15.github.io/myforest/poem/20240302-questiontosky/</guid>
       <description>&lt;p&gt;天好蓝，它的脚底有白云。&lt;/p&gt;</description>
     </item>
     <item>
       <title>天上人间</title>
-      <link>https://skyforest.org/poem/20220416-no-utopia/</link>
+      <link>https://ytl15.github.io/myforest/poem/20220416-no-utopia/</link>
       <pubDate>Sat, 16 Apr 2022 10:38:36 +0100</pubDate>
-      <guid>https://skyforest.org/poem/20220416-no-utopia/</guid>
+      <guid>https://ytl15.github.io/myforest/poem/20220416-no-utopia/</guid>
       <description>&lt;p&gt;云，笼着月亮：&#xA;哥哥，和弟弟走一个？&lt;/p&gt;</description>
     </item>
   </channel>
