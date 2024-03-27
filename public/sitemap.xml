@@ -192,6 +192,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://ytl15.github.io/myforest/tags/%E6%9C%88%E7%BB%8F/</loc>
+    <lastmod>2023-10-26T10:38:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ytl15.github.io/myforest/poem/20231026-periods/</loc>
+    <lastmod>2023-10-26T10:38:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://ytl15.github.io/myforest/tags/%E7%A7%8B%E5%A4%A9/</loc>
     <lastmod>2023-10-16T10:38:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -244,6 +254,11 @@
   </url><url>
     <loc>https://ytl15.github.io/myforest/daily/20230602-silence/</loc>
     <lastmod>2023-06-02T17:27:15+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://ytl15.github.io/myforest/poem/20240312-periods2/</loc>
+    <lastmod>2023-03-12T10:38:36+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
