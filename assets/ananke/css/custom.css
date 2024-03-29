@@ -8,8 +8,6 @@ a:active {
     color: LightBlue   ; /* 链接激活（点击）时的颜色 */
   }
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200&display=swap')
-
 
 noto-serif sc-extralight {
   font-family: "Noto Serif SC", serif;
